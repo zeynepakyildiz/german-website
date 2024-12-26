@@ -1,0 +1,32 @@
+.kunstpage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #e6e1db;
+  height: 100%;
+}
+
+.kunst-title {
+  position: absolute;
+  top: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+
+.kunst-img {
+  display: flex;
+  margin-top: 120px;
+  width: 370px; /* Adjust the size of the images */
+  height: auto;
+}
+
+.text-container-kunstpage {
+  display: flex;
+  text-align: center; /* Optional: Justify text for a neat look */
+  width: 80%;
+}
+
+.kunstpageText {
+  font-size: 15px;
+}

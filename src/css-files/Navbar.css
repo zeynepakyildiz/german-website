@@ -1,0 +1,82 @@
+.navbar {
+  position: fixed; /* Ekranın en üstüne sabitler */
+  top: 0; /* Ekranın en üst kısmında kalmasını sağlar */
+  width: 100%; /* Tam genişlikte olur */
+  height: 40px;
+  z-index: 1000;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+}
+
+.navbar .logo-box {
+  height: 50px;
+  position: absolute;
+  left: 50px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.navbar .logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 3px;
+}
+
+.logo-text {
+  color: red;
+}
+
+.navbar .nav-links {
+  position: absolute;
+  left: 300px;
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar .nav-links li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.navbar .signing-section {
+  position: absolute;
+  right: 50px;
+  align-items: center;
+  list-style-type: none;
+  display: flex;
+  gap: 30px;
+  top: 20px;
+}
+
+button {
+  text-align: center;
+  padding: 5px 10px;
+  border-radius: 20px;
+  border-width: 2px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#login {
+  border-color: #e0ebeb;
+}
+
+button#login {
+  background-color: #e0ebeb;
+}
+
+#signup {
+  border-color: #dcd4c1;
+}
+
+button#signup {
+  background-color: #dcd4c1;
+}

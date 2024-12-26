@@ -1,0 +1,29 @@
+.nwpage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.nw-title {
+  position: absolute;
+  top: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+.nw-img {
+  display: block;
+  margin-top: 120px;
+  width: 500px;
+  height: auto;
+}
+
+.text-container-nwpage {
+  display: block;
+  width: 80%;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.nwpapeText {
+  font-size: 15px;
+}

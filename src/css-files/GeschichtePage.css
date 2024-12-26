@@ -1,0 +1,32 @@
+.geschichte-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.gpage-title {
+  display: flex;
+  margin-top: 80px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+
+.gpage-img {
+  display: flex;
+  width: 600px;
+  height: auto;
+  margin-top: 10px;
+}
+
+.text-container-gpage {
+  display: flex;
+  width: 80%;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.gpageText {
+  font-size: 17px;
+}

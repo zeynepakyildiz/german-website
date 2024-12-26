@@ -1,0 +1,22 @@
+.forum-page {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  justify-content: baseline;
+}
+
+.forum-page-title {
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 100px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.topic {
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 10px;
+  background-color: #e6e1db;
+  height: 40px;
+  width: 200px;
+}
