@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/german-website/static/css/main.e3bc74e8.css",
-    "main.js": "/german-website/static/js/main.be53ea46.js",
-    "static/js/453.24c81860.chunk.js": "/german-website/static/js/453.24c81860.chunk.js",
-    "static/media/kunst_img.png": "/german-website/static/media/kunst_img.d9e84ee4f4b4155b85ca.png",
-    "static/media/gpage_img.gif": "/german-website/static/media/gpage_img.a0f9bfab470d9ed751c5.gif",
-    "static/media/zeitformen.png": "/german-website/static/media/zeitformen.745eed1aa3940511bc57.png",
-    "static/media/essen.png": "/german-website/static/media/essen.f3311a48af64e36c3999.png",
-    "static/media/map.png": "/german-website/static/media/map.4d3fb797d03ea6f8ed0e.png",
-    "static/media/nw-img.png": "/german-website/static/media/nw-img.d2ced2ddfeac59e09965.png",
-    "static/media/logo192.png": "/german-website/static/media/logo192.5f74c78773b820f920d7.png",
-    "static/media/history.png": "/german-website/static/media/history.4613a76f08e600c1a83f.png",
-    "static/media/card-image.png": "/german-website/static/media/card-image.903c3a0fc13f1191d54e.png",
-    "index.html": "/german-website/index.html",
-    "main.e3bc74e8.css.map": "/german-website/static/css/main.e3bc74e8.css.map",
-    "main.be53ea46.js.map": "/german-website/static/js/main.be53ea46.js.map",
-    "453.24c81860.chunk.js.map": "/german-website/static/js/453.24c81860.chunk.js.map"
+    "main.css": "/static/css/main.e3bc74e8.css",
+    "main.js": "/static/js/main.cc641954.js",
+    "static/js/453.24c81860.chunk.js": "/static/js/453.24c81860.chunk.js",
+    "static/media/kunst_img.png": "/static/media/kunst_img.d9e84ee4f4b4155b85ca.png",
+    "static/media/gpage_img.gif": "/static/media/gpage_img.a0f9bfab470d9ed751c5.gif",
+    "static/media/zeitformen.png": "/static/media/zeitformen.745eed1aa3940511bc57.png",
+    "static/media/essen.png": "/static/media/essen.f3311a48af64e36c3999.png",
+    "static/media/map.png": "/static/media/map.4d3fb797d03ea6f8ed0e.png",
+    "static/media/nw-img.png": "/static/media/nw-img.d2ced2ddfeac59e09965.png",
+    "static/media/logo192.png": "/static/media/logo192.5f74c78773b820f920d7.png",
+    "static/media/history.png": "/static/media/history.4613a76f08e600c1a83f.png",
+    "static/media/card-image.png": "/static/media/card-image.903c3a0fc13f1191d54e.png",
+    "index.html": "/index.html",
+    "main.e3bc74e8.css.map": "/static/css/main.e3bc74e8.css.map",
+    "main.cc641954.js.map": "/static/js/main.cc641954.js.map",
+    "453.24c81860.chunk.js.map": "/static/js/453.24c81860.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3bc74e8.css",
-    "static/js/main.be53ea46.js"
+    "static/js/main.cc641954.js"
   ]
 }
